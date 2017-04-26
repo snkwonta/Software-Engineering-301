@@ -1,0 +1,8 @@
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\obj\Debug\UnitTest(Good Scripts).csprojResolveAssemblyReference.cache
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\bin\Debug\UnitTest(Good Scripts).dll
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\bin\Debug\UnitTest(Good Scripts).pdb
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\bin\Debug\seng301-asgn2.dll
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\bin\Debug\seng301-asgn2.pdb
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\obj\Debug\UnitTest(Good Scripts).dll
+C:\Users\snkwo\Downloads\seng301-asgn3.vstudio\seng301-asgn3.vstudio\UnitTest(Good Scripts)\obj\Debug\UnitTest(Good Scripts).pdb
